@@ -1,2 +1,4 @@
-# npca
-Neural Principal Component Analysis
+# Neural Principal Component Analysis
+
+![](pca.png)
+![](npca.png)
