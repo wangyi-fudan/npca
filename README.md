@@ -8,6 +8,9 @@
 
 ![](Bike_Sharing.png)
 
+**mnist test**
+![](mnist_test.png)
+
 # The Model
 
 It is based on the following neural network:
