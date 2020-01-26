@@ -1,7 +1,9 @@
 # Neural Principal Component Analysis
 
-![](pca.png)
-![](npca.png)
+**Anuran_Calls**
+
+![](Anuran_Calls.png)
+
 
 # The Model
 
